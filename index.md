@@ -3,11 +3,11 @@ title       : Diamond Price Linear Model
 subtitle    : Coursera Data Products Project
 author      : Victor Garzon
 job         : April 2016
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : standalone    # {selfcontained, standalone, draft}
+framework   : io2012         # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js   # {highlight.js, prettify, highlight}
+hitheme     : tomorrow       # 
+widgets     : []             # {mathjax, quiz, bootstrap}
+mode        : selfcontained  # {selfcontained, standalone, draft}
 knit        : slidify::knit2slides
 ---
 
@@ -73,4 +73,4 @@ https://vgarzon.shinyapps.io/diamondPriceLM/
 <div style='text-align: center;'>
     <img height=340 src="assets/img/testDataVPred.jpg"/>
 </div>
- 
+
